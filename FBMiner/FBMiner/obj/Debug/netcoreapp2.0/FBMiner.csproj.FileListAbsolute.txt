@@ -1,0 +1,11 @@
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\FBMiner\FBMiner\bin\Debug\netcoreapp2.0\FBMiner.deps.json
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\FBMiner\FBMiner\bin\Debug\netcoreapp2.0\FBMiner.runtimeconfig.json
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\FBMiner\FBMiner\bin\Debug\netcoreapp2.0\FBMiner.runtimeconfig.dev.json
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\FBMiner\FBMiner\bin\Debug\netcoreapp2.0\FBMiner.dll
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\FBMiner\FBMiner\bin\Debug\netcoreapp2.0\FBMiner.pdb
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\FBMiner\FBMiner\obj\Debug\netcoreapp2.0\FBMiner.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\FBMiner\FBMiner\obj\Debug\netcoreapp2.0\FBMiner.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\FBMiner\FBMiner\obj\Debug\netcoreapp2.0\FBMiner.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\FBMiner\FBMiner\obj\Debug\netcoreapp2.0\FBMiner.AssemblyInfo.cs
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\FBMiner\FBMiner\obj\Debug\netcoreapp2.0\FBMiner.dll
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\FBMiner\FBMiner\obj\Debug\netcoreapp2.0\FBMiner.pdb
